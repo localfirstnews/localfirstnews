@@ -26,6 +26,7 @@ Contributions should use the following format:
 ```
 ### [Title](https://www.link.com)
 [_News_ or _Discussion_ tag]
+
 Story or discussion summary.
 ```
 
@@ -39,6 +40,7 @@ News — event:
 ```
 ### [Local-First Conf held in Berlin](https://www.localfirstconf.com/)
 _News_
+
 The first-ever developer conference dedicated to local-first app development took place in Berlin on May 30th with a tech expo day held on May 31st.
 ```
 
@@ -46,6 +48,7 @@ News — article:
 ```
 ### [Linear engineer shares how they scaled their sync engine](https://linear.app/blog/scaling-the-linear-sync-engine)
 _News_
+
 Tuomas Artman provides a technical explanation of how Linear's realtime sync engine works with their application today.
 ```
 
@@ -53,6 +56,7 @@ Discussion:
 ```
 ### [The opportunity of B2B SaaS for local-frist ](https://x.com/emerywells/status/1813265037454451039)
 _Discussion_
+
 Twitter thread started by @emerywells on how apps with faster UI could dominate B2B markets.
 ```
 
@@ -67,6 +71,7 @@ Contributions should use the following format:
 ```
 ### [Tool name [optional: version number] or Resource title](https://www.link.com)
 [_Tool_ or _Resource_ tag]
+
 Tool or resource summary.
 ```
 
@@ -80,6 +85,7 @@ Tool:
 ```
 ### [TinyBase v5.1](https://tinybase.org/guides/releases/#v5-1)
 _Tool_
+
 TinyBase, a "reactive data store for local-first apps", adds server sync capabilities in this release.
 ```
 
@@ -87,6 +93,7 @@ Resource:
 ```
 ### [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 _Resource_
+
 Matthew Weidner models architectural techiques that can be used to create real-time collaborative apps using a central server.
 ```
 
@@ -101,6 +108,7 @@ Contributions should use the following format:
 ```
 ### [App name](https://www.link.com)
 App summary.
+
 [optional: _technology used_]
 ```
 
@@ -113,13 +121,14 @@ Example:
 ```
 ### [Fig](https://figwealth.io/)
 Wealth planning tool for freelancers.
+
 _Using PowerSync as sync engine._
 ```
 
 ## Editorial discretion
 Our objective is to accept submissions as-is. However, editorial discretion will be applied to ensure submissions follow the above guidelines and for length. Guidelines may be applied more stringently in weeks with a high number of submissions. Editorial reasoning will be shared on pull requests.
 
-@phillvdm and @cahofmeyr currently comprise the editorial team and can be reached on this repo or at hello@localfirstnews.com.
+[phillvdm](https://github.com/phillvdm) and [cahofmeyr](https://github.com/cahofmeyr) currently comprise the editorial team and can be reached on this repo or at [hello@localfirstnews.com](mailto:hello@localfirstnews.com).
 
 
 ## Community
