@@ -48,7 +48,7 @@ Tuomas Artman explains how Linear's real-time sync engine works with their appli
 
 Discussion:
 ```
-### [The opportunity of B2B SaaS for local-frist ](https://x.com/emerywells/status/1813265037454451039)
+### [The arbitrage opportunity for local-first in B2B SaaS](https://x.com/emerywells/status/1813265037454451039)
 Twitter/X thread started by @emerywells on how apps with faster UI could dominate B2B markets.
 ```
 
