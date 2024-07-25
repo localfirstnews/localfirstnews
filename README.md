@@ -24,37 +24,36 @@ This section is to surface:
 Contributions should use the following format:
 
 ```
-## Title
+### [Title](https://www.link.com)
+[_News_ or _Discussion_ tag]
 Story or discussion summary.
-[Link description](https://www.link.com)
 ```
 
 - Titles should descriptive and to the point.
-- Story or discussion summaries should provide additional detail that would help readers decide if they want to read more.
-  - E.g. why the item is newsworthy.
 - Links should be to a publically accesible original source.
+- Story or discussion summaries should provide additional detail that would help readers decide if they want to read more.
 
 **Examples:**
 
-News item:
+News — event:
 ```
-## Local-First Conf held in Berlin
+### [Local-First Conf held in Berlin](https://www.localfirstconf.com/)
+_News_
 The first-ever developer conference dedicated to local-first app development took place in Berlin on May 30th with a tech expo day held on May 31st.
-[Local-First Conf website](https://www.localfirstconf.com/)
 ```
 
-Article:
+News — article:
 ```
-## Linear engineer shares how they scaled their sync engine
+### [Linear engineer shares how they scaled their sync engine](https://linear.app/blog/scaling-the-linear-sync-engine)
+_News_
 Tuomas Artman provides a technical explanation of how Linear's realtime sync engine works with their application today.
-[Linear Blog](https://linear.app/blog/scaling-the-linear-sync-engine))
 ```
 
 Discussion:
 ```
-## The opportunity for local-frist of B2B SaaS
-Discussion started by @emerywells on how apps with faster UI could dominate B2B markets.
-[Twitter thread](https://x.com/emerywells/status/1813265037454451039)
+### [The opportunity of B2B SaaS for local-frist ](https://x.com/emerywells/status/1813265037454451039)
+_Discussion_
+Twitter thread started by @emerywells on how apps with faster UI could dominate B2B markets.
 ```
 
 #### 🛠️ Tools and resources section
@@ -66,29 +65,29 @@ This section is to surface:
 Contributions should use the following format:
 
 ```
-## Tool name [optional: version number] or Resource title
+### [Tool name [optional: version number] or Resource title](https://www.link.com)
+[_Tool_ or _Resource_ tag]
 Tool or resource summary.
-[Link Description](https://www.link.com)
 ```
 
-- Tool names should be used as is. Include a version number if the item refers to an update of an existing tool.
-- Tool summaries should be descriptive and to the point.
-- Links should be to the tool's website or GitHub page or to the webpage where the resource is available.
+- Tool names should be used as is. Include a version number if possible.
+- Links should be to the tool's website, repo or changelog; or to the webpage where the resource is available.
+- Summaries should be descriptive and to the point.
 
 **Examples:**
 
 Tool:
 ```
-## TinyBase v5.1
+### [TinyBase v5.1](https://tinybase.org/guides/releases/#v5-1)
+_Tool_
 TinyBase, a "reactive data store for local-first apps", adds server sync capabilities in this release.
-[TinyBase release notes](https://tinybase.org/guides/releases/#v5-1)
 ```
 
 Resource:
 ```
-## Architectures for Central Server Collaboration
+### [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
+_Resource_
 Matthew Weidner models architectural techiques that can be used to create real-time collaborative apps using a central server.
-[Blog post](https://mattweidner.com/2024/06/04/server-architectures.html)
 ```
 
 #### 👾 App section
@@ -100,29 +99,27 @@ This section is to surface apps built using local-first architectures. A wider d
 Contributions should use the following format:
 
 ```
-## App name
+### [App name](https://www.link.com)
 App summary.
-[optional: technology used]
-[Link description](https://www.link.com)
+[optional: _technology used_]
 ```
 
 - App names should be used as is.
+- Links should be to the app's website or GitHub page.
 - App summaries should be descriptive.
 - Optionally include technology used, with a focus on the local-first parts of their stack.
-- Links should be to the app's website or GitHub page.
 
 Example:
 ```
-## Fig
+### [Fig](https://figwealth.io/)
 Wealth planning tool for freelancers.
-Using PowerSync as sync engine.
-[figwealth.io](https://figwealth.io/)
+_Using PowerSync as sync engine._
 ```
 
-## Editorial Discretion
-Our objective is to accept the vast majority of submissions as-is. However, editorial discretion will be applied to ensure submissions follow the above guidelines and for length. Guidelines may be applied more stringently in weeks with a high number of submissions. Editorial reasoning will be shared on pull requests.
+## Editorial discretion
+Our objective is to accept submissions as-is. However, editorial discretion will be applied to ensure submissions follow the above guidelines and for length. Guidelines may be applied more stringently in weeks with a high number of submissions. Editorial reasoning will be shared on pull requests.
 
-@phillvdm and @cahofmeyr currently comprise the editorial team.
+@phillvdm and @cahofmeyr currently comprise the editorial team and can be reached on this repo or at hello@localfirstnews.com.
 
 
 ## Community
