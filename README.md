@@ -1,3 +1,6 @@
+
+![local-first-news-favicon](https://github.com/user-attachments/assets/37a1015a-0364-4bbf-8027-3cbcd4a76467)
+
 # Local-First News
 Local-First News was created as an open-contribution newsletter that makes it easy to stay on top of the rapidly-changing local-first software landscape.
 
