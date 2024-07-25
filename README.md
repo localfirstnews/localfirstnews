@@ -97,6 +97,7 @@ Contributions should use the following format:
 ```
 ### [App name](http://www.example.com)
 App summary.
+
 [optional: _Technology used_]
 ```
 
@@ -109,6 +110,7 @@ Example:
 ```
 ### [Fig](https://figwealth.io/)
 Wealth planning tool for freelancers.
+
 _Using PowerSync as sync engine._
 ```
 
