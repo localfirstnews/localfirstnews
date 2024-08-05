@@ -122,3 +122,7 @@ Our objective is to accept submissions as-is. However, submissions may be edited
 
 ## Community
 New to local-first? The [Local-First Software community](https://localfirstweb.dev/) is a great place to learn.
+
+## Sponsorship
+This newsletter is currently sponsored by [PowerSync](https://www.powersync.com/)
+
