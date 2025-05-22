@@ -32,7 +32,7 @@ Story or discussion summary.
 ```
 
 - Titles should descriptive and to the point.
-- Links should be to a publicly-accesible original source.
+- Links should be to a publicly-accessible original source.
 - Story or discussion summaries should provide additional detail that would help readers decide if they want to read more.
 
 **Examples:**
