@@ -2,7 +2,7 @@
 ![local-first-news-favicon](https://github.com/user-attachments/assets/37a1015a-0364-4bbf-8027-3cbcd4a76467)
 
 # Local-First News
-Local-First News was created as an open-contribution newsletter that makes it easy to stay on top of the rapidly-changing local-first software landscape.
+Local-First News is an open-contribution newsletter that makes it easy to stay on top of the rapidly-evolving local-first software landscape.
 
 ## Contributing
 Anyone can contribute to the latest edition of Local-First News by creating a pull request with suggested edits to the markdown file for that week's edition.
@@ -14,7 +14,7 @@ Anyone can contribute to the latest edition of Local-First News by creating a pu
 - All contributions should be written in [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 There are three sections in each edition:
-1. News & Discussions <!-- TODO update with in-page links once published -->
+1. News & Discussions
 2. Tools & Resources
 3. Apps
 
@@ -56,10 +56,10 @@ Twitter/X thread started by @emerywells on how apps with faster UI could dominat
 ```
 
 #### 🛠️ Tools & Resources section
-This section is to surface:
+This section is meant to surface:
 - New tools related to local-first development released in the last week.
 - Significant updates to existing tools released in the last week.
-- Useful resources made available in the last week.
+- Useful developer resources made available in the last week.
 
 Contributions should use the following format:
 
@@ -87,7 +87,7 @@ Matthew Weidner models architectural techniques that can be used to create real-
 ```
 
 #### 👾 Apps section
-This section is to surface apps built with a local-first approach. A wider discretion is applied regarding the app's release date being in the prior week. Apps are likely to be includeed if they:
+This section is to surface apps built with a local-first architecture. Apps are likely to be included if they:
 - were released relatively recently
 - are not well-known
 - haven't been featured in the newsletter before
@@ -96,12 +96,10 @@ Contributions should use the following format:
 
 ```
 ### [App name](http://www.example.com)
-App summary.
-
-[optional: _Technology used_]
+App summary. [optional: _Technology used_]
 ```
 
-- App names should be used as is.
+- App names should be used as-is.
 - Links should be to the app's website or GitHub page.
 - App summaries should be descriptive.
 - Optionally include technology used, with a focus on the local-first parts of their stack.
@@ -109,20 +107,18 @@ App summary.
 Example:
 ```
 ### [Fig](https://figwealth.io/)
-Wealth planning tool for freelancers.
-
-_Using PowerSync as sync engine._
+Wealth planning tool for freelancers. _Using PowerSync as sync engine._
 ```
 
 ## Editorial discretion
 Our objective is to accept submissions as-is. However, submissions may be edited to adhere to the above guidelines, and for length. Guidelines may be applied more stringently in weeks with a high number of submissions. Reasons for edits will be shared on pull requests.
 
-[@phillvdm](https://github.com/phillvdm) and [@cahofmeyr](https://github.com/cahofmeyr) currently comprise the editorial team and can be reached on this repo or at [hello@localfirstnews.com](mailto:hello@localfirstnews.com).
+[@cahofmeyr](https://github.com/cahofmeyr) is the curator of the newsletter and can be reached on this repo or at [hello@localfirstnews.com](mailto:hello@localfirstnews.com).
 
 
 ## Community
-New to local-first? The [Local-First Software community](https://localfirstweb.dev/) is a great place to learn.
+New to local-first? The [Local-First Software community](https://lofi.so/) is a great place to learn.
 
-## Sponsorship
-This newsletter is currently sponsored by [PowerSync](https://www.powersync.com/)
+## Sponsors
+This newsletter is sponsored by [PowerSync](https://www.powersync.com/)
 
